@@ -6,3 +6,5 @@ ChooseYourOwnCapstoneRScript.R <- Final version of R script
 ChooseYourOwnCapstonePDF.Rmd <- R Markdown version of report
 
 ChooseYourOwnCapstonePDF.pdf <- pdf version of report
+
+adult.csv <- Public Adult Census Income data file
